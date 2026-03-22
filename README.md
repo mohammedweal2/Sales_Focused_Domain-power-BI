@@ -7,7 +7,7 @@
 ## 🗂️ Project Overview
 
 This project delivers a fully structured Power BI dashboard designed to provide actionable insights across sales performance, profitability, and budget tracking. It integrates modern AI tooling via **MCP Server** to accelerate development and improve accuracy.
-video_link[https://drive.google.com/file/d/1bux79UZVG3hTSBHo5qTptCM1uLa_5mQs/view?usp=drive_link]
+video_link[https://drive.google.com/file/d/1cWUVAOyyn0cwM7R2b-FsLAt_AGTjrUL0/view?usp=drive_link]
 
 ---
 
